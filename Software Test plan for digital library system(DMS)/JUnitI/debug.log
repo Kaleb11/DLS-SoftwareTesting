@@ -1,0 +1,66 @@
+[0713/154038.325:ERROR:process_info.cc(632)] range at 0x70f72dd200000000, size 0x57 fully unreadable
+[0713/154038.365:ERROR:process_info.cc(632)] range at 0x70f72e3400000000, size 0x57 fully unreadable
+[0713/154038.365:ERROR:process_info.cc(632)] range at 0x0, size 0x57 fully unreadable
+[0713/154038.505:ERROR:process_info.cc(380)] UncheckedAllocate
+[0713/154039.018:ERROR:http_transport_win.cc(267)] WinHttpSendRequest: A security error occurred  (0x2f8f)
+[0713/154508.613:ERROR:process_info.cc(632)] range at 0x848b2d8000000000, size 0xd8 fully unreadable
+[0713/154508.617:ERROR:process_info.cc(632)] range at 0x14702d5800000000, size 0x55 fully unreadable
+[0713/154508.625:ERROR:process_info.cc(632)] range at 0x14702dba00000000, size 0x55 fully unreadable
+[0713/154508.625:ERROR:process_info.cc(632)] range at 0x848b2de200000000, size 0xd8 fully unreadable
+[0713/154508.625:ERROR:process_info.cc(632)] range at 0x0, size 0x55 fully unreadable
+[0713/154508.625:ERROR:process_info.cc(632)] range at 0x0, size 0xd8 fully unreadable
+[0713/154508.681:ERROR:process_info.cc(380)] UncheckedAllocate
+[0713/154508.685:ERROR:process_info.cc(380)] UncheckedAllocate
+[0713/154508.701:ERROR:process_info.cc(632)] range at 0xc5ad274600000000, size 0x3 fully unreadable
+[0713/154508.701:ERROR:process_info.cc(632)] range at 0xc5ad276600000000, size 0x3 fully unreadable
+[0713/154508.701:ERROR:process_info.cc(632)] range at 0x0, size 0x3 fully unreadable
+[0713/154509.072:ERROR:http_transport_win.cc(267)] WinHttpSendRequest: A security error occurred  (0x2f8f)
+[0713/154519.571:ERROR:process_info.cc(632)] range at 0x87e02d5600000000, size 0x76 fully unreadable
+[0713/154519.571:ERROR:process_info.cc(632)] range at 0x87e02db600000000, size 0x76 fully unreadable
+[0713/154519.571:ERROR:process_info.cc(632)] range at 0x0, size 0x76 fully unreadable
+[0713/154519.611:ERROR:process_info.cc(380)] UncheckedAllocate
+[0713/154520.081:ERROR:http_transport_win.cc(267)] WinHttpSendRequest: A security error occurred  (0x2f8f)
+[0713/154520.805:ERROR:process_info.cc(632)] range at 0xdb425fc00000000, size 0x77 fully unreadable
+[0713/154520.805:ERROR:process_info.cc(632)] range at 0xdb4261c00000000, size 0x77 fully unreadable
+[0713/154520.805:ERROR:process_info.cc(632)] range at 0x0, size 0x77 fully unreadable
+[0713/154521.149:ERROR:process_info.cc(380)] UncheckedAllocate
+[0713/154529.090:ERROR:process_info.cc(632)] range at 0x300b2d7e00000000, size 0x91 fully unreadable
+[0713/154529.090:ERROR:process_info.cc(632)] range at 0x300b2de000000000, size 0x91 fully unreadable
+[0713/154529.090:ERROR:process_info.cc(632)] range at 0x0, size 0x91 fully unreadable
+[0713/154529.162:ERROR:process_info.cc(380)] UncheckedAllocate
+[0713/154529.210:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: An attempt was made to access an exiting process.  (0xc000010a)
+[0713/154529.303:ERROR:http_transport_win.cc(267)] WinHttpSendRequest: A security error occurred  (0x2f8f)
+[0713/154536.504:ERROR:process_info.cc(632)] range at 0x577e2d5800000000, size 0xf2 fully unreadable
+[0713/154536.504:ERROR:process_info.cc(632)] range at 0x577e2dba00000000, size 0xf2 fully unreadable
+[0713/154536.504:ERROR:process_info.cc(632)] range at 0x0, size 0xf2 fully unreadable
+[0713/154536.540:ERROR:process_info.cc(380)] UncheckedAllocate
+[0713/154536.576:ERROR:process_info.cc(632)] range at 0x7aec2d8000000000, size 0x85 fully unreadable
+[0713/154536.576:ERROR:process_info.cc(632)] range at 0x7aec2de200000000, size 0x85 fully unreadable
+[0713/154536.576:ERROR:process_info.cc(632)] range at 0x0, size 0x85 fully unreadable
+[0713/154536.665:ERROR:process_info.cc(380)] UncheckedAllocate
+[0713/154536.993:ERROR:http_transport_win.cc(267)] WinHttpSendRequest: A security error occurred  (0x2f8f)
+[0713/154605.445:ERROR:process_info.cc(632)] range at 0xb2b7268a00000000, size 0x95 fully unreadable
+[0713/154605.445:ERROR:process_info.cc(632)] range at 0xb2b726aa00000000, size 0x95 fully unreadable
+[0713/154605.445:ERROR:process_info.cc(632)] range at 0x0, size 0x95 fully unreadable
+[0713/154605.449:ERROR:process_info.cc(380)] UncheckedAllocate
+[0713/154605.838:ERROR:http_transport_win.cc(267)] WinHttpSendRequest: A security error occurred  (0x2f8f)
+[0713/154709.829:ERROR:process_info.cc(632)] range at 0x95722d5600000000, size 0xd7 fully unreadable
+[0713/154709.829:ERROR:process_info.cc(632)] range at 0x95722db600000000, size 0xd7 fully unreadable
+[0713/154709.829:ERROR:process_info.cc(632)] range at 0x0, size 0xd7 fully unreadable
+[0713/154709.873:ERROR:process_info.cc(380)] UncheckedAllocate
+[0713/154710.093:ERROR:http_transport_win.cc(267)] WinHttpSendRequest: A security error occurred  (0x2f8f)
+[0713/154731.793:ERROR:process_info.cc(632)] range at 0xac4b25fc00000000, size 0xc4 fully unreadable
+[0713/154731.793:ERROR:process_info.cc(632)] range at 0xac4b261c00000000, size 0xc4 fully unreadable
+[0713/154731.793:ERROR:process_info.cc(632)] range at 0x0, size 0xc4 fully unreadable
+[0713/165914.238:ERROR:process_info.cc(632)] range at 0x2f932d8200000000, size 0xc6 fully unreadable
+[0713/165914.778:ERROR:process_info.cc(632)] range at 0x2f932de400000000, size 0xc6 fully unreadable
+[0713/165914.778:ERROR:process_info.cc(632)] range at 0x0, size 0xc6 fully unreadable
+[0713/165918.822:ERROR:http_transport_win.cc(267)] WinHttpSendRequest: A security error occurred  (0x2f8f)
+[0713/165939.970:ERROR:process_info.cc(632)] range at 0x1b8b260000000000, size 0x50 fully unreadable
+[0713/165939.970:ERROR:process_info.cc(632)] range at 0x1b8b262000000000, size 0x50 fully unreadable
+[0713/165939.970:ERROR:process_info.cc(632)] range at 0x0, size 0x50 fully unreadable
+[0713/165940.411:ERROR:process_info.cc(632)] range at 0x58fd2d5a00000000, size 0x72 fully unreadable
+[0713/165940.411:ERROR:process_info.cc(632)] range at 0x58fd2dbc00000000, size 0x72 fully unreadable
+[0713/165940.411:ERROR:process_info.cc(632)] range at 0x0, size 0x72 fully unreadable
+[0713/165940.435:ERROR:process_info.cc(380)] UncheckedAllocate
+[0719/152336.667:ERROR:file_io_win.cc(182)] CreateFile C:\Users\kalebo\AppData\Local\Temp\scoped_dir12728_7274\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
